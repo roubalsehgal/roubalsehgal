@@ -1,7 +1,11 @@
 ### Hi 👋 **Glad to see you here! 🤩**
 
 😀 **About me**
- - From being a **curious** guy🤔 about how these **Mobile Apps & Websites** work - To building & working with some of the great stuff out there. These green dots represents some of my work so far. I've started my **open-source** journey by **contributing** to some projects here recently.
+ - From being a **curious** guy🤔 about how these **Mobile Apps & Websites** work - To building & working with some of the great stuff out there. These green dots represents some of my work so far. I've started my **open-source** journey by **contributing** to some projects here recently. Catch me for a quick discussion on Startup World.
+ 
+ ❤ **What do I love**
+ - Love to be updated about the Startup world and the new technology trends.
+ - Learning & gaining experience build my own startup that brings value to people's life.
 
 🏨 **Work**
  - Currently I'm working with <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as **SDET Intern**.
