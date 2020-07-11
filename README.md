@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi 👋 **Glad to see you here! 🤩**
 
-**Glad to see you here! 🤩**
-
-😀 **About**
+😀 **About me**
  - From being a **curious** guy🤔 about how these **Mobile Apps & Websites** work - To building & working with some of the great stuff out there. These green dots represents some of my work so far. I've started my **open-source** journey by **contributing** to some projects here recently.
 
 🏨 **Work**
