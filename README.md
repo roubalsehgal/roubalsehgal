@@ -4,7 +4,8 @@
  - From being a **curious** guy🤔 about how these **Mobile Apps & Websites** work - To building & working with some of the great stuff out there. These green dots represents some of my work so far. I've started my **open-source** journey by **contributing** to some projects here recently.
 
 🏨 **Work**
- - Currently I'm working with **<a href="https://github.com/makemytrip">MakeMyTrip<a/> as SDET Intern.** Working with Mobile & Web testing with technologies including Appium, TestNG, Selenium.
+ - Currently I'm working with <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as **SDET Intern**.
+ - Learning Mobile & Web testing with technologies including Appium, TestNG, Selenium.
 
 🧑🏻 **Profiles**
 
