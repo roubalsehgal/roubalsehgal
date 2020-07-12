@@ -1,7 +1,7 @@
 ### Hi 👋 **Glad to see you here! 🤩**
 
 😀 **About me**
- - From being a **curious** guy🤔 about how these **Mobile Apps & Websites** work - To building & working with some of the great stuff out there. These green dots represents some of my work so far. I've started my **open-source** journey by contributing to some projects here recently. Catch me for a quick discussion on Startup World.
+ - From being a **curious** guy🤔 about how these **Mobile Apps & Websites** work - To building & working with some of the great stuff out there. These green dots on my <a href="https://www.github.com/roubalsehgal">**Github**</a> profile represents some of my work so far. I've started my **open-source** journey by contributing to some projects here recently. Catch me for a quick discussion on Startup World.
  
  ❤ **What do I love**
  - Love to be updated about the Startup world and the new technology trends.
@@ -15,7 +15,7 @@
 
 🧑🏻 **Profiles**
 
- - **Checkout my Linkedin Profile:** <a href="https://www.linkedin.com/in/roubalsehgal">**LinkedIn Profile - Roubal Sehgal**<a/>
+ - **Checkout my Linkedin Profile:** <a href="https://www.linkedin.com/in/roubalsehgal">**LinkedIn - Roubal Sehgal**<a/>
   
  - **Say Hi on Twitter(<a href="https://www.twitter.com/roubal_sehgal"><b>@Roubal_Sehgal</b></a>)!** ❤️ 💬
 
