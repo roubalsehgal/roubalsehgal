@@ -11,6 +11,8 @@
  - Currently I'm working with <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as **SDET Intern**.
  - Learning Mobile & Web testing with technologies including Appium, TestNG, Selenium.
 
+   <img src="https://img.shields.io/badge/Build-Passed-brightgreen">  <img src="https://img.shields.io/badge/Build-Passed-brightgreen">  <img src="https://img.shields.io/badge/Build-Passed-brightgreen">
+
 🧑🏻 **Profiles**
 
  - **Checkout my Linkedin Profile:** <a href="https://www.linkedin.com/in/roubalsehgal">**LinkedIn Profile - Roubal Sehgal**<a/>
