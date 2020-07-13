@@ -19,4 +19,4 @@
   
  - **Say Hi on Twitter(<a href="https://www.twitter.com/roubal_sehgal"><b>@Roubal_Sehgal</b></a>)!** ❤️ 💬
 
-   <img src="https://img.shields.io/twitter/follow/roubal_sehgal?style=social"/>
+   <a href="https://www.twitter.com/roubal_sehgal"><img src="https://img.shields.io/twitter/follow/roubal_sehgal?style=social"/></a>
