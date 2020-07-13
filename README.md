@@ -15,8 +15,8 @@
 
 🧑🏻 **Profiles**
 
- - **Checkout my Linkedin Profile:** <a href="https://www.linkedin.com/in/roubalsehgal">**LinkedIn - Roubal Sehgal**<a/>
+ - **Checkout my Linkedin Profile:** <a href="https://www.linkedin.com/in/roubalsehgal" target="_blank">**LinkedIn - Roubal Sehgal**<a/>
   
- - **Say Hi on Twitter(<a href="https://www.twitter.com/roubal_sehgal"><b>@Roubal_Sehgal</b></a>)!** ❤️ 💬
+ - **Say Hi on Twitter(<a href="https://www.twitter.com/roubal_sehgal" target="_blank"><b>@Roubal_Sehgal</b></a>)!** ❤️ 💬
 
-   <a href="https://www.twitter.com/roubal_sehgal"><img src="https://img.shields.io/twitter/follow/roubal_sehgal?style=social"/></a>
+   <a href="https://www.twitter.com/roubal_sehgal" target="_blank"><img src="https://img.shields.io/twitter/follow/roubal_sehgal?style=social"/></a>
