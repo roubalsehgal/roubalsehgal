@@ -5,7 +5,7 @@
  
  ❤ **What do I love**
  - Love to be updated about the Startup world and the new technology trends.
- - Learning & gaining experience to build my own startup that brings value to people's life.
+ - Learning & gaining experience that'll help me to build my own startup that can change other people lives.
 
 🏨 **Work**
  - Currently I'm working with <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as **SDET Intern**.
