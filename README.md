@@ -17,6 +17,6 @@
 
  - **Checkout my Linkedin Profile:** <a href="https://www.linkedin.com/in/roubalsehgal" target="_blank">**LinkedIn - Roubal Sehgal**<a/>
   
- - **Say Hi on Twitter(<a href="https://www.twitter.com/roubalsehgal" target="_blank"><b>@RoubalSehgal</b></a>)!** ❤️ 💬
+ - **Say Hi on Twitter(<a href="https://www.twitter.com/roubalsehgal" target="_blank"><b>@roubalsehgal</b></a>)!** ❤️ 💬
 
    <a href="https://www.twitter.com/roubalsehgal" target="_blank"><img src="https://img.shields.io/twitter/follow/roubalsehgal?style=social"/></a>
