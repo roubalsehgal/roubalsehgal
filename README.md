@@ -9,9 +9,6 @@
 
 🏨 **Work**
  - Currently I'm working at <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as a **Software Engineer**.
- - Learning & Working on Mobile & Web testing using Appium, TestNG, Selenium and other tools and frameworks.
-
-   <img src="https://img.shields.io/badge/Build-Passed-brightgreen">  <img src="https://img.shields.io/badge/Test%20Cases-Runned%3A%20143%2C%20Failed%3A%202%2C%20Skipped%3A%200-red">  <img src="https://img.shields.io/badge/Tests-Execution%20Time%3A%202048%20sec-brightgreen">
 
 🧑🏻 **Profiles**
 
