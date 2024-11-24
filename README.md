@@ -8,7 +8,7 @@
  - Learning & gaining experience that'll help me to build my own startup that can change other people lives.
 
 🏨 **Work**
- - Currently I'm working at <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as a **Software Engineer**.
+ - Currently I'm working at <a href="https://github.com/makemytrip"><b>MakeMyTrip</b><a/> as a **Senior Software Engineer**.
 
 🧑🏻 **Profiles**
 
